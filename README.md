@@ -1,4 +1,4 @@
-## Hi there Je suis Kawtar Zogar
+## Hi there! Je suis Kawtar Zogar
 ### Étudiante en Master 2 Ingénierie de la Décision | Future Ingénieure BI / Data Analyst
 
 Je suis passionnée par l'**analyse des données** et la **Business Intelligence**, avec un fort intérêt pour l'**extraction** de valeur à partir de jeux de données complexes et la **modélisation** pour la prise de décision.
