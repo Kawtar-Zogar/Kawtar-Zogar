@@ -1,11 +1,11 @@
-## Hi there! Je suis Kawtar Zogar
+# Hi there! Je suis Kawtar Zogar
 ### Étudiante en Master 2 Ingénierie de la Décision | Future Ingénieure BI / Data Analyst
 
 Je suis passionnée par l'**analyse des données** et la **Business Intelligence**, avec un fort intérêt pour l'**extraction** de valeur à partir de jeux de données complexes et la **modélisation** pour la prise de décision.
 
 ---
 
-## 📊 Compétences Clés (Skills)
+## Compétences Clés (Skills)
 
 * **Business Intelligence (BI):** Maîtrise de **Power BI** (Dashboards interactifs, DAX avancé) et des processus ETL avec **SSIS**.
 * **Modélisation de Données:** Conception de Data Marts, Modélisation Dimensionnelle, et schémas MCD/MLD.
@@ -15,7 +15,7 @@ Je suis passionnée par l'**analyse des données** et la **Business Intelligence
 
 ---
 
-## 🌟 Vitrine de Projets (Portfolio Highlights)
+## Vitrine de Projets (Portfolio Highlights)
 
 Voici les projets qui illustrent mes compétences en Data Analysis et BI, notamment ceux réalisés avec Power BI et la modélisation :
 
@@ -30,7 +30,7 @@ Voici les projets qui illustrent mes compétences en Data Analysis et BI, notamm
 
 ---
 
-## 📞 Me Contacter
+## Me Contacter
 
 * **LinkedIn :** [Kawtar Zogar - LinkedIn](https://www.linkedin.com/in/kawtar-zogar-760a2b364)
 * **Email :** [zogarkawtarkaml@gmail.com](mailto:zogarkawtar@gmail.com)
