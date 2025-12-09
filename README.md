@@ -1,16 +1,16 @@
 # Hi there! Je suis Kawtar Zogar
-### Étudiante en Master 2 Ingénierie de la Décision | Future Ingénieure BI / Data Analyst
+### Étudiante en Master 2 Ingénierie de la Décision | Future Data Analyst / Ingénieure BI
 
-Je suis passionnée par l'**analyse des données** et la **Business Intelligence**, avec un fort intérêt pour l'**extraction** de valeur à partir de jeux de données complexes et la **modélisation** pour la prise de décision.
+Je suis passionnée par l'analyse des données et la **Business Intelligence**, avec un fort intérêt pour l'**extraction** de valeur à partir de jeux de données complexes et la **modélisation** pour la prise de décision.
 
 ---
 
 ## Compétences Clés (Skills)
 
-* **Business Intelligence (BI):** Maîtrise de **Power BI** (Dashboards interactifs, DAX avancé) et des processus ETL avec **SSIS**.
-* **Modélisation de Données:** Conception de Data Marts, Modélisation Dimensionnelle, et schémas MCD/MLD.
-* **Bases de Données & SQL:** Expertise en **SQL Server** et écriture de requêtes T-SQL complexes.
-* **Data Science / Programmation:** Notions de Python pour l'analyse de données (**Pandas/NumPy**).
+* **Business Intelligence (BI):** Compétences solides sur **Power BI** (Création de tableaux de bord et DAX) et les processus ETL avec **SSIS**.
+* **Modélisation de Données:** Conception de Data Marts, Modélisation Dimensionnelle (Star/Snowflake), et schémas MCD/MLD.
+* **SQL & Bases de Données:** Bonne compréhension de **SQL Server** et capacité à manipuler les données avec des requêtes SQL.
+* **Analyse de Données:** Utilisation des outils statistiques et de manipulation des données pour l'analyse exploratoire (EDA).
 * **Gestion & Audit:** Compétences en Audit de Système d'Information et Modélisation de Processus.
 
 ---
