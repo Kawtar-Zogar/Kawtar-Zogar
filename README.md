@@ -33,6 +33,6 @@ Voici les projets qui illustrent mes compétences en Data Analysis et BI, notamm
 ## Me Contacter
 
 * **LinkedIn :** [Kawtar Zogar - LinkedIn](https://www.linkedin.com/in/kawtar-zogar-760a2b364)
-* **Email :** [zogarkawtarkaml@gmail.com](mailto:zogarkawtar@gmail.com)
+* **Email :** [zogarkawtar@gmail.com](mailto:zogarkawtar@gmail.com)
 
 <p align="center">Merci de votre visite!</p>
